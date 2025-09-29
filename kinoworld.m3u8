@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:0,Dobos Attila slágerei
-#EXTGRP:Retro zene
-https://hls2-cdn28.strmupcdn.cc/hls/WnZENWyNtNyxiqblrI89aNlXOR20KX/index_1920x1080.m3u8
 #EXTINF:0,Fegyverek -Weapons (2025) HD
 #EXTGRP:Filmek Premier 2025
 https://hls1-cdn38.cloudlionscdn.com/hls/rjkhIwgPLYVkX9SVcscKLyw335TRv2/index_2592x1080.m3u8
@@ -575,3 +572,4 @@ https://hls1-cdn37.cloudlionscdn.com/hls/pHBSXiC1CLRsegWML1BXK3p2Zq4iSG/index_96
 #EXTINF:0,Vakáción a Mézga család - 13.rész - Végre Otthon!
 #EXTGRP:Sorozatok Vakáción a Mézga ..
 https://s2-hls1-cdn36.cloudlionscdn.com/hls/ZtN3GSfJL9OcWqS7FBPP9SZEip5PPQ/index_960x720.m3u8
+
