@@ -50,9 +50,6 @@ https://hls1-cdn37.cloudlionscdn.com/hls/713mgGwKZsnzabxxCpPRycRKVv2gcw/index_64
 #EXTINF:0,Két emelet boldogság
 #EXTGRP:Filmek Magyar 
 https://hls2-cdn31.cloudlionscdn.com/hls/GZensHESzqDHIGBvVwxCvcD6uJF6jQ/index_852x480.m3u8
-#EXTINF:0,Hatalom (2023)
-#EXTGRP:Filmek Magyar 
-https://hls2-cdn28.strmupcdn.cc/hls/SVpwwQiQ60s9sNxXOxYhAsacezujOW/index_1920x1080.m3u8
 #EXTINF:0,Zimmer Feri 2
 #EXTGRP:Filmek Magyar 
 https://hls2-cdn31.cloudlionscdn.com/hls/wGDlZ6HRLKtVRJzCwZLDw92pTOeQA9/index_1920x1080.m3u8
@@ -155,18 +152,12 @@ https://hls2-cdn30.strmupcdn.cc/hls/y5g5jRWAMghGtAnXRWpf6vuFu5AAs2/index_1994x10
 #EXTINF:0,Ikrek
 #EXTGRP:Vígjátékok
 https://hls2-cdn31.cloudlionscdn.com/hls/wPhEQKihMFHxHJgeh3ai4xkMzMIc5q/index_1998x1080.m3u8
-#EXTINF:0,Better off dead
-#EXTGRP:Vígjátékok
-https://hls2-cdn28.strmupcdn.cc/hls/sFmDUAtfkJz0K9vQJtrdib8NyPrPCC/index_1998x1080.m3u8
 #EXTINF:0,Mr Végzet
 #EXTGRP:Vígjátékok
 https://hls1-cdn38.cloudlionscdn.com/hls/dRbP7FDqZJdGXSDmJRPIShSQ9YcvTM/index_1920x1080.m3u8
 #EXTINF:0,40 éves szűz
 #EXTGRP:Vígjátékok
 https://hls2-cdn31.cloudlionscdn.com/hls/z4RIAyMXTXgiY6Xn4RqZUkjx6Pogpt/index_1998x1080.m3u8
-#EXTINF:0,Dunai hajós 2 rész 1974
-#EXTGRP:Vígjátékok
-https://hls2-cdn30.strmupcdn.cc/hls/B5YuS6YjQk0FZi3PcYCMguoHA07yAG/index_640x480.m3u8
 #EXTINF:0,Csillagkapu (Stargate)
 #EXTGRP:Filmek Sci Fi
 https://hls1-cdn37.cloudlionscdn.com/hls/855WIFGw3Mkn0LuJirocOjjHNPgvxd/index_2592x1080.m3u8
@@ -365,9 +356,6 @@ https://hls2-cdn32.cloudlionscdn.com/hls/rS5CHYrLnCeR27Zyjss1kyFR9vuykh/index_19
 #EXTINF:0,A halálhágó 1986
 #EXTGRP:Filmek 80-as évek
 https://s2-hls1-cdn43.rdr2games.com/hls/0ANBld9sDmoMc1svrwq3PG0GQAaMMH/index_1920x1080.m3u8
-#EXTINF:0,A Riviéra vadorzói (1988)
-#EXTGRP:Filmek 80-as évek
-https://hls2-cdn28.strmupcdn.cc/hls/wbEREWfzjnRCoEjKfwK5M4YlGdrXxI/index_888x480.m3u8
 #EXTINF:0,Fantozzi (1975)
 #EXTGRP:Filmek 70-es évek
 https://hls1-cdn37.cloudlionscdn.com/hls/H2nADBymzvkl4PrChVdgXLuWdaULKt/index_880x480.m3u8
@@ -437,9 +425,6 @@ https://s2-hls1-cdn43.rdr2games.com/hls/NaPeIGU0swibemcnJZSuyDB6q2lP3o/index_128
 #EXTINF:0,El a kezekkel a feleségemtől 1966
 #EXTGRP:Filmek 60-as évek
 https://hls1-cdn38.cloudlionscdn.com/hls/CbnmcIVO6j5hbjsmtsYaxLuYhSFmvE/index_1920x1080.m3u8
-#EXTINF:0,Rioi kaland 1964
-#EXTGRP:Filmek 60-as évek
-https://hls2-cdn28.strmupcdn.cc/hls/NWVpHZuezoDseGCBixYNrP0vqQhOgB/index_1920x1080.m3u8
 #EXTINF:0,Legénylakás 1960
 #EXTGRP:Filmek 60-as évek
 https://hls2-cdn37.cloudlionscdn.com/hls/ocz4DoHL6AlrPuRk1XLVGnCYQ3NheU/index_1920x1080.m3u8
@@ -572,4 +557,5 @@ https://hls1-cdn37.cloudlionscdn.com/hls/pHBSXiC1CLRsegWML1BXK3p2Zq4iSG/index_96
 #EXTINF:0,Vakáción a Mézga család - 13.rész - Végre Otthon!
 #EXTGRP:Sorozatok Vakáción a Mézga ..
 https://s2-hls1-cdn36.cloudlionscdn.com/hls/ZtN3GSfJL9OcWqS7FBPP9SZEip5PPQ/index_960x720.m3u8
+
 
