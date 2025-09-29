@@ -434,6 +434,9 @@ https://hls2-cdn37.cloudlionscdn.com/hls/ocz4DoHL6AlrPuRk1XLVGnCYQ3NheU/index_19
 #EXTINF:0,Az Ipcress ügyirat 1965
 #EXTGRP:Filmek 60-as évek
 https://hls2-cdn37.cloudlionscdn.com/hls/TSZrqgAdKikueAmFtdijotEjKIe2W7/index_1130x480.m3u8
+#EXTINF:0,Vajaskonyha 1963
+#EXTGRP:Filmek 60-as évek
+https://hls1-cdn46.cloudlionscdn.com/hls/e6I6mdUxjqI3jti8dcOT1JN8b04fsm/index_1920x1080.m3u8
 #EXTINF:0,Nagy Sándor (1956)
 #EXTGRP:Filmek 50-es évek
 https://s2-hls1-cdn36.cloudlionscdn.com/hls/xpZm1Y7jXCxZVtqObT9lP9sGrQ5AK1/index_1128x480.m3u8
@@ -560,6 +563,7 @@ https://hls1-cdn37.cloudlionscdn.com/hls/pHBSXiC1CLRsegWML1BXK3p2Zq4iSG/index_96
 #EXTINF:0,Vakáción a Mézga család - 13.rész - Végre Otthon!
 #EXTGRP:Sorozatok Vakáción a Mézga ..
 https://s2-hls1-cdn36.cloudlionscdn.com/hls/ZtN3GSfJL9OcWqS7FBPP9SZEip5PPQ/index_960x720.m3u8
+
 
 
 
